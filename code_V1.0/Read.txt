@@ -1,0 +1,2 @@
+1、Two subfolders need to be constructed in the output folder, named Network_topological_overlap_coefficient and Node_topological_overlap_coefficient
+2、Need a txt file of all sample names
